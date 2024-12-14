@@ -1,9 +1,9 @@
 > You look around;
->
+
 > observe things;
->
+
 > cateregorize them;
->
+
 > arrange them.
 >
 > And you do it all again in a different perspective, Maybe Not.
