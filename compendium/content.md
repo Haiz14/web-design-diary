@@ -2,6 +2,28 @@
 
 # Standard
 
+0. Resident
+  - perspective
+    - me
+    - you
+    - others
+  - linkage/karma:
+    - past
+    - action
+    - result
+  - data
+    - know
+    - see
+    - believe
+    - feel
+    - want
+  - goal
+    - read
+    - understood
+    - believe
+    - agree
+    - act
+
 1. element
   - title
   - description
