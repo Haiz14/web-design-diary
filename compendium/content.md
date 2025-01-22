@@ -28,12 +28,13 @@
   - title
   - description
   - spec
+  - stat
   - experience
   - object
-  - category
   - event
   - signal
   - input
+  - fluff
 
 
 2. piece:
@@ -41,12 +42,11 @@
   - introduction
   - listing
   - details
-  - stats
-  - evoker
   - panel
   - macros
   - alerts
   - meta
+  - motions
 
 3. page
   - topic
