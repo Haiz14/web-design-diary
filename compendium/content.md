@@ -4,9 +4,9 @@
 
 0. Resident
   - perspective
-    - me
-    - you
-    - others
+    - me 🔴
+    - you 📐
+    - others 🟥
   - linkage/karma:
     - past
     - action
@@ -28,6 +28,13 @@
   - title
   - description
   - spec
+    - flow
+    - people/org
+    - service
+    - product
+    - things
+    - works
+    - information
   - stat
   - experience
   - object
