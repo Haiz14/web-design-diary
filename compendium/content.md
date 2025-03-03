@@ -3,14 +3,19 @@
 # Standard
 
 0. Resident
-  - perspective
-    - me 🔴
-    - you 📐
-    - others 🟥
-  - linkage/karma:
-    - past
-    - action
-    - result
+  - character-sheet
+    - people
+    - process
+    - object
+  - questionaire
+    - what
+    - where
+    - how
+    - why
+    - when
+    - similar
+    - associated
+    - change
   - data
     - know
     - see
@@ -27,7 +32,8 @@
 1. element
   - title
   - description
-  - spec
+  - spec (in essence, this is converted to tile, description)
+    - img
     - flow
     - people/org
     - service
@@ -35,9 +41,9 @@
     - things
     - works
     - information
+  - category
   - stat
   - experience
-  - object
   - event
   - signal
   - input
@@ -45,14 +51,17 @@
 
 
 2. piece:
-  - glimpse
-  - introduction
+  - introduction / evoker / attention grabber
   - listing
-  - details
-  - panel
-  - macros
-  - alerts
+  - offer
+  - card
   - meta
+  - sayings / quotes / reactions
+  - details / infromational
+  - interface stuff
+    - panel
+    - macros
+    - alerts
   - motions
 
 3. page
