@@ -44,6 +44,7 @@
   - category
   - stat
   - experience
+  - nav
   - event
   - signal
   - input
@@ -52,12 +53,16 @@
 
 2. piece:
   - introduction / evoker / attention grabber
-  - listing
-  - offer
-  - card
-  - meta
-  - sayings / quotes / reactions
-  - details / infromational
+  - imformation stuff
+    - listing
+    - offer
+    - card
+    - meta
+    - sayings / quotes / reactions
+    - details / infromational
+    - rules
+    - row
+    - comparisions
   - interface stuff
     - panel
     - macros
