@@ -7,27 +7,33 @@
     - people
     - process
     - object
-  - questionaire
-    - what
-    - where
-    - how
-    - why
-    - when
-    - similar
-    - associated
-    - change
-  - data
-    - know
-    - see
-    - believe
-    - feel
-    - want
-  - goal
-    - read
-    - understood
-    - believe
-    - agree
-    - act
+  - finders quest
+    - simplest
+      - name (नाम)
+      - appearance (रूप)
+      - utility (उपाधि )
+    - questionaire
+      - what
+      - where
+      - how
+      - why
+      - when
+      - similar
+      - associated
+      - change
+  - perspective
+    - writer 
+      - know
+      - see (logic)
+      - believe
+      - feel
+      - want
+    - reader should be able 
+      - read
+      - understood
+      - believe
+      - agree
+      - act
 
 1. element
   - title
