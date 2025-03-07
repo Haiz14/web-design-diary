@@ -7,7 +7,20 @@
     - people
     - process
     - object
-  - finders quest
+  - character finder tools
+    - writer 
+      - know
+      - see (logic)
+      - believe
+      - feel
+      - want
+    - reader should be able 
+      - read
+      - understood
+      - believe
+      - agree
+      - act
+  - atttibute finders quest
     - simplest
       - name (नाम)
       - appearance (रूप)
@@ -21,19 +34,6 @@
       - similar
       - associated
       - change
-  - perspective
-    - writer 
-      - know
-      - see (logic)
-      - believe
-      - feel
-      - want
-    - reader should be able 
-      - read
-      - understood
-      - believe
-      - agree
-      - act
 
 1. element
   - title
