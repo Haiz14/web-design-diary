@@ -64,7 +64,7 @@
     - offer
     - card
     - meta
-    - sayings / quotes / reactions
+    - trust
     - details / infromational
     - rules
     - row
@@ -76,9 +76,11 @@
   - motions
 
 3. page
-  - topic
-  - shop
-  - details
+  - intro
+  - info / details / features
+  - offerimgs / offer
+  - random
+  - nav
   - interface
 
 4. site:
