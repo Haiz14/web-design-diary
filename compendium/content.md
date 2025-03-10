@@ -5,7 +5,30 @@
 0. Resident
   - character-sheet
     - people
+      - how to find?
+        - role, profession, relation, name, organisation
+        - assume object is a person (advanced)
+      - based on time
+        - past
+          - skills
+          - achievements
+          - duration
+          - works / creations
+        - goals
+        - present condition
+      - personality/ vales
+      - familiar things
+      - reputation
+        - sayings from others
+      - favorites
+      - members, relations with others
     - process
+      - steps
+      - stages
+      - changes
+      - utility
+      - input
+      - output
     - object
   - character finder tools
     - writer 
