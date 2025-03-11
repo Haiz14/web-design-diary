@@ -91,16 +91,18 @@
 
 
 2. piece:
-  - introduction / evoker / attention grabber
   - imformation stuff
+    - introduction / evoker / attention grabber
     - listing
+      - collection of cards
     - offer
     - card
+      - collection of rows and info
     - meta
     - trust
-    - details / infromational
     - rules
     - row
+      - listing of some specs in numbers, or important one two word info
     - comparisions
   - interface stuff
     - panel
