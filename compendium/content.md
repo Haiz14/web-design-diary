@@ -4,32 +4,42 @@
 
 0. Resident
   - character-sheet
+    - all these are perspectives of looking at the same thing.
     - people
       - how to find?
         - role, profession, relation, name, organisation
         - assume object is a person (advanced)
-      - based on time
-        - past
-          - skills
-          - achievements
-          - duration
-          - works / creations
+      - past
+        - skills
+        - achievements
+        - duration
+        - works / creations
+      - future:
         - goals
-        - present condition
       - personality/ vales
       - familiar things
       - reputation
         - sayings from others
+        - in industry
       - favorites
       - members, relations with others
     - process
       - steps
       - stages
       - changes
-      - utility
+      - utility / effects / stages
       - input
       - output
+      - rules
+      - exceptions
     - object
+      - how to find:
+        - divide / fractals / join / combine
+        - ingredients / composition / root / essence
+      - perspective
+      - senses
+      - comparisions
+      - hierarchy
   - character finder tools
     - writer 
       - know
