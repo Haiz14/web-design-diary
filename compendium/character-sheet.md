@@ -8,12 +8,20 @@ This one is much more sane than the one in content.md
   - comparisions / differences
 
 2. process / time / when / how:
-  - input
-  - output
-  - process
+  - resultant / effect (don't bother 'bout how, just consider what's)
+    - input
+    - output
+  - process (details of how it happens)
     - rules
     - stages
     - exceptions
+  - architection: (useful for designing stuff)
+    - manipulations
+    - structures
+    - assembly
+      - logic
+      - constraints
+      - scheduling
 
 3. people / benefits / why:
   - perspective
