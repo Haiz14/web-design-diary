@@ -69,10 +69,7 @@
       - change
 
 1. element
-  - title
-  - description
-  - spec (in essence, this is converted to tile, description)
-    - img
+  - spec (points)
     - flow
     - people/org
     - service
@@ -80,13 +77,21 @@
     - things
     - works
     - information
-  - category
-  - stat
-  - experience
-  - nav
-  - event
-  - signal
+  - expressing (way of expressing points):
+    - title
+    - description
+    - category
+    - stat
+    - experience / evoker
+  - types
+    - text
+    - img
+    - audio 
+    - video
+    - haptics
   - input
+    - nav
+    - event / signal
   - fluff
 
 
